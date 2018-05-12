@@ -1,0 +1,30 @@
+_repo: The-Unveiling-of-Lhasa_33359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Candler, Edmund
+    alias: Chandler, Edmund
+    birthdate: 1874
+    deathdate: 1926
+    gutenberg_agent_id: '36363'
+    url: http://www.gutenberg.org/2009/agents/36363
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Candler
+description: ''
+gutenberg_issued: '2010-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Candler, Edmund, 1874-1926 -- Travel -- China -- Tibet Autonomous Region'
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcsh 'British -- China -- Tibet Autonomous Region'
+title: The Unveiling of Lhasa
+url: http://www.gutenberg.org/ebooks/33359
